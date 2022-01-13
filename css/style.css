@@ -149,6 +149,7 @@ p {
     }
 
     .card__img-background {
+        background-image: url(../images/image-header-desktop.jpg);
         border-top-left-radius: 0;
         border-bottom-right-radius: var(--radius-8);
         border-top-right-radius: var(--radius-8);
