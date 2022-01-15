@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/KrzysztofGrudzien/frontend-mentor-stats-card-component)
-- Live Site URL: [Add live site URL here](https://krzysztofgrudzien.github.io/frontend-mentor-stats-card-component/)
+- Solution URL: [[Add solution URL here](https://github.com/KrzysztofGrudzien/frontend-mentor-stats-card-component)](https://github.com/KrzysztofGrudzien/frontend-mentor-stats-card-component)
+- Live Site URL: [[Add live site URL here](https://krzysztofgrudzien.github.io/frontend-mentor-stats-card-component/)](https://krzysztofgrudzien.github.io/frontend-mentor-stats-card-component/)
 
 ## My process
 
